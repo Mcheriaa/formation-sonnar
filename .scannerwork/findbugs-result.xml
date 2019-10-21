@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.12" sequence="0" timestamp="1570634401167" analysisTimestamp="1570646856413" release="">
+  <Project>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\ArchiJEEApplication.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\configuration\SecurityConfiguration.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\controller\EmployeeController.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\controller\LivreController.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\controller\LivreForm.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\controller\LoginController.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\controller\LoginForm.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\model\Employee.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\model\Genre.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\model\Livre.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\model\Role.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\model\User.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\repository\EmployeeRepository.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\repository\GenreRepository.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\repository\LivreRepository.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\repository\RoleRepository.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\repository\UserRepository.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\service\EmployeeServiceImplementation.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\service\EmployeeServiceInterface.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\service\GenreServiceHelper$1.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\service\GenreServiceHelper.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\service\LivreServiceImplementation.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\service\LivreServiceInterface.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\service\UserService.class</Jar>
+    <Jar>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee\service\UserServiceImpl.class</Jar>
+    <AuxClasspathEntry>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\target\classes\com\macrosoftas\archijee</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\.scannerwork\findbugs\annotations.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\.scannerwork\findbugs\jsr305.jar</AuxClasspathEntry>
+    <WrkDir>C:\MACROSOFT\formationprepaonly\FormationPLBSonarTUNIS\TP\archijavajeespringboot\.scannerwork</WrkDir>
+  </Project>
+  <Errors errors="0" missingClasses="31">
+    <MissingClass>org.slf4j.Logger</MissingClass>
+    <MissingClass>org.slf4j.LoggerFactory</MissingClass>
+    <MissingClass>org.springframework.boot.SpringApplication</MissingClass>
+    <MissingClass>org.springframework.data.jpa.repository.JpaRepository</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.SecurityBuilder</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.authentication.configurers.userdetails.DaoAuthenticationConfigurer</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.builders.HttpSecurity</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.builders.WebSecurity</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.builders.WebSecurity$IgnoredRequestConfigurer</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.configurers.CsrfConfigurer</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.configurers.ExceptionHandlingConfigurer</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer$AuthorizedUrl</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.configurers.ExpressionUrlAuthorizationConfigurer$ExpressionInterceptUrlRegistry</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.configurers.FormLoginConfigurer</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.configurers.HeadersConfigurer</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.configurers.HeadersConfigurer$FrameOptionsConfig</MissingClass>
+    <MissingClass>org.springframework.security.config.annotation.web.configurers.LogoutConfigurer</MissingClass>
+    <MissingClass>org.springframework.security.core.Authentication</MissingClass>
+    <MissingClass>org.springframework.security.core.authority.SimpleGrantedAuthority</MissingClass>
+    <MissingClass>org.springframework.security.core.context.SecurityContext</MissingClass>
+    <MissingClass>org.springframework.security.core.context.SecurityContextHolder</MissingClass>
+    <MissingClass>org.springframework.security.core.userdetails.User</MissingClass>
+    <MissingClass>org.springframework.security.core.userdetails.UserDetailsService</MissingClass>
+    <MissingClass>org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder</MissingClass>
+    <MissingClass>org.springframework.security.web.util.matcher.AntPathRequestMatcher</MissingClass>
+    <MissingClass>org.springframework.ui.Model</MissingClass>
+    <MissingClass>org.springframework.validation.BindingResult</MissingClass>
+    <MissingClass>org.springframework.web.servlet.ModelAndView</MissingClass>
+    <MissingClass>org.springframework.web.servlet.mvc.support.RedirectAttributes</MissingClass>
+  </Errors>
+  <FindBugsSummary timestamp="Wed, 9 Oct 2019 17:20:01 +0200" total_classes="25" referenced_classes="102" total_bugs="0" total_size="482" num_packages="6" java_version="11.0.3" vm_version="11.0.3+7" cpu_seconds="24.38" clock_seconds="9.29" peak_mbytes="904.04" alloc_mbytes="2018.00" gc_seconds="0.04">
+    <FileStats path="com/macrosoftas/archijee/ArchiJEEApplication.java" bugCount="0" size="27"/>
+    <FileStats path="com/macrosoftas/archijee/configuration/SecurityConfiguration.java" bugCount="0" size="39"/>
+    <FileStats path="com/macrosoftas/archijee/controller/EmployeeController.java" bugCount="0" size="30"/>
+    <FileStats path="com/macrosoftas/archijee/controller/LivreController.java" bugCount="0" size="36"/>
+    <FileStats path="com/macrosoftas/archijee/controller/LivreForm.java" bugCount="0" size="15"/>
+    <FileStats path="com/macrosoftas/archijee/controller/LoginController.java" bugCount="0" size="34"/>
+    <FileStats path="com/macrosoftas/archijee/controller/LoginForm.java" bugCount="0" size="15"/>
+    <FileStats path="com/macrosoftas/archijee/model/Employee.java" bugCount="0" size="27"/>
+    <FileStats path="com/macrosoftas/archijee/model/Genre.java" bugCount="0" size="39"/>
+    <FileStats path="com/macrosoftas/archijee/model/Livre.java" bugCount="0" size="38"/>
+    <FileStats path="com/macrosoftas/archijee/model/Role.java" bugCount="0" size="15"/>
+    <FileStats path="com/macrosoftas/archijee/model/User.java" bugCount="0" size="45"/>
+    <FileStats path="com/macrosoftas/archijee/repository/EmployeeRepository.java" bugCount="0" size="1"/>
+    <FileStats path="com/macrosoftas/archijee/repository/GenreRepository.java" bugCount="0" size="2"/>
+    <FileStats path="com/macrosoftas/archijee/repository/LivreRepository.java" bugCount="0" size="1"/>
+    <FileStats path="com/macrosoftas/archijee/repository/RoleRepository.java" bugCount="0" size="2"/>
+    <FileStats path="com/macrosoftas/archijee/repository/UserRepository.java" bugCount="0" size="3"/>
+    <FileStats path="com/macrosoftas/archijee/service/EmployeeServiceImplementation.java" bugCount="0" size="19"/>
+    <FileStats path="com/macrosoftas/archijee/service/EmployeeServiceInterface.java" bugCount="0" size="6"/>
+    <FileStats path="com/macrosoftas/archijee/service/GenreServiceHelper.java" bugCount="0" size="26"/>
+    <FileStats path="com/macrosoftas/archijee/service/LivreServiceImplementation.java" bugCount="0" size="21"/>
+    <FileStats path="com/macrosoftas/archijee/service/LivreServiceInterface.java" bugCount="0" size="7"/>
+    <FileStats path="com/macrosoftas/archijee/service/UserService.java" bugCount="0" size="3"/>
+    <FileStats path="com/macrosoftas/archijee/service/UserServiceImpl.java" bugCount="0" size="31"/>
+    <PackageStats package="com.macrosoftas.archijee" total_bugs="0" total_types="1" total_size="27">
+      <ClassStats class="com.macrosoftas.archijee.ArchiJEEApplication" sourceFile="ArchiJEEApplication.java" interface="false" size="27" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.macrosoftas.archijee.configuration" total_bugs="0" total_types="1" total_size="39">
+      <ClassStats class="com.macrosoftas.archijee.configuration.SecurityConfiguration" sourceFile="SecurityConfiguration.java" interface="false" size="39" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.macrosoftas.archijee.controller" total_bugs="0" total_types="5" total_size="130">
+      <ClassStats class="com.macrosoftas.archijee.controller.EmployeeController" sourceFile="EmployeeController.java" interface="false" size="30" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.controller.LivreController" sourceFile="LivreController.java" interface="false" size="36" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.controller.LivreForm" sourceFile="LivreForm.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.controller.LoginController" sourceFile="LoginController.java" interface="false" size="34" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.controller.LoginForm" sourceFile="LoginForm.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.macrosoftas.archijee.model" total_bugs="0" total_types="5" total_size="164">
+      <ClassStats class="com.macrosoftas.archijee.model.Employee" sourceFile="Employee.java" interface="false" size="27" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.model.Genre" sourceFile="Genre.java" interface="false" size="39" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.model.Livre" sourceFile="Livre.java" interface="false" size="38" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.model.Role" sourceFile="Role.java" interface="false" size="15" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.model.User" sourceFile="User.java" interface="false" size="45" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.macrosoftas.archijee.repository" total_bugs="0" total_types="5" total_size="9">
+      <ClassStats class="com.macrosoftas.archijee.repository.EmployeeRepository" sourceFile="EmployeeRepository.java" interface="true" size="1" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.repository.GenreRepository" sourceFile="GenreRepository.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.repository.LivreRepository" sourceFile="LivreRepository.java" interface="true" size="1" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.repository.RoleRepository" sourceFile="RoleRepository.java" interface="true" size="2" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.repository.UserRepository" sourceFile="UserRepository.java" interface="true" size="3" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.macrosoftas.archijee.service" total_bugs="0" total_types="8" total_size="113">
+      <ClassStats class="com.macrosoftas.archijee.service.EmployeeServiceImplementation" sourceFile="EmployeeServiceImplementation.java" interface="false" size="19" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.service.EmployeeServiceInterface" sourceFile="EmployeeServiceInterface.java" interface="true" size="6" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.service.GenreServiceHelper" sourceFile="GenreServiceHelper.java" interface="false" size="17" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.service.GenreServiceHelper$1" sourceFile="GenreServiceHelper.java" interface="false" size="9" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.service.LivreServiceImplementation" sourceFile="LivreServiceImplementation.java" interface="false" size="21" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.service.LivreServiceInterface" sourceFile="LivreServiceInterface.java" interface="true" size="7" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.service.UserService" sourceFile="UserService.java" interface="true" size="3" bugs="0"/>
+      <ClassStats class="com.macrosoftas.archijee.service.UserServiceImpl" sourceFile="UserServiceImpl.java" interface="false" size="31" bugs="0"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="1034" invocations="659" avgMicrosecondsPerInvocation="1570" maxMicrosecondsPerInvocation="49761" standardDeviationMicrosecondsPerInvocation="4770"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="878" invocations="646" avgMicrosecondsPerInvocation="1359" maxMicrosecondsPerInvocation="133715" standardDeviationMicrosecondsPerInvocation="5725"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="325" invocations="102" avgMicrosecondsPerInvocation="3192" maxMicrosecondsPerInvocation="45784" standardDeviationMicrosecondsPerInvocation="7252"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="281" invocations="323" avgMicrosecondsPerInvocation="870" maxMicrosecondsPerInvocation="16306" standardDeviationMicrosecondsPerInvocation="1578"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="230" invocations="102" avgMicrosecondsPerInvocation="2258" maxMicrosecondsPerInvocation="38455" standardDeviationMicrosecondsPerInvocation="5457"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="177" invocations="111" avgMicrosecondsPerInvocation="1596" maxMicrosecondsPerInvocation="46931" standardDeviationMicrosecondsPerInvocation="4858"/>
+      <ClassProfile name="com.h3xstream.findsecbugs.taintanalysis.TaintDataflowEngine" totalMilliseconds="133" invocations="111" avgMicrosecondsPerInvocation="1199" maxMicrosecondsPerInvocation="15356" standardDeviationMicrosecondsPerInvocation="2058"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="119" invocations="102" avgMicrosecondsPerInvocation="1172" maxMicrosecondsPerInvocation="46200" standardDeviationMicrosecondsPerInvocation="5436"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder" totalMilliseconds="119" invocations="110" avgMicrosecondsPerInvocation="1086" maxMicrosecondsPerInvocation="22075" standardDeviationMicrosecondsPerInvocation="2446"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="114" invocations="102" avgMicrosecondsPerInvocation="1121" maxMicrosecondsPerInvocation="23139" standardDeviationMicrosecondsPerInvocation="2877"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="111" invocations="128" avgMicrosecondsPerInvocation="870" maxMicrosecondsPerInvocation="82688" standardDeviationMicrosecondsPerInvocation="7272"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="102" invocations="186" avgMicrosecondsPerInvocation="551" maxMicrosecondsPerInvocation="44011" standardDeviationMicrosecondsPerInvocation="3324"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="101" invocations="128" avgMicrosecondsPerInvocation="790" maxMicrosecondsPerInvocation="25064" standardDeviationMicrosecondsPerInvocation="2478"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="85" invocations="111" avgMicrosecondsPerInvocation="773" maxMicrosecondsPerInvocation="18290" standardDeviationMicrosecondsPerInvocation="1879"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="84" invocations="102" avgMicrosecondsPerInvocation="828" maxMicrosecondsPerInvocation="8243" standardDeviationMicrosecondsPerInvocation="1755"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="83" invocations="111" avgMicrosecondsPerInvocation="755" maxMicrosecondsPerInvocation="24245" standardDeviationMicrosecondsPerInvocation="2379"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildObligationPolicyDatabase" totalMilliseconds="78" invocations="102" avgMicrosecondsPerInvocation="770" maxMicrosecondsPerInvocation="12891" standardDeviationMicrosecondsPerInvocation="1786"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory" totalMilliseconds="75" invocations="111" avgMicrosecondsPerInvocation="682" maxMicrosecondsPerInvocation="6629" standardDeviationMicrosecondsPerInvocation="1048"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CalledMethods" totalMilliseconds="67" invocations="102" avgMicrosecondsPerInvocation="661" maxMicrosecondsPerInvocation="8463" standardDeviationMicrosecondsPerInvocation="1385"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="66" invocations="529" avgMicrosecondsPerInvocation="125" maxMicrosecondsPerInvocation="1893" standardDeviationMicrosecondsPerInvocation="234"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.BuildStringPassthruGraph" totalMilliseconds="52" invocations="102" avgMicrosecondsPerInvocation="515" maxMicrosecondsPerInvocation="12966" standardDeviationMicrosecondsPerInvocation="1540"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.CheckRelaxingNullnessAnnotation" totalMilliseconds="47" invocations="25" avgMicrosecondsPerInvocation="1897" maxMicrosecondsPerInvocation="32790" standardDeviationMicrosecondsPerInvocation="6360"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.EqualsOperandShouldHaveClassCompatibleWithThis" totalMilliseconds="45" invocations="102" avgMicrosecondsPerInvocation="449" maxMicrosecondsPerInvocation="9283" standardDeviationMicrosecondsPerInvocation="1124"/>
+      <ClassProfile name="edu.umd.cs.findbugs.DetectorToDetector2Adapter" totalMilliseconds="43" invocations="5856" avgMicrosecondsPerInvocation="7" maxMicrosecondsPerInvocation="419" standardDeviationMicrosecondsPerInvocation="7"/>
+      <ClassProfile name="edu.umd.cs.findbugs.ba.npe.TypeQualifierNullnessAnnotationDatabase" totalMilliseconds="42" invocations="1074" avgMicrosecondsPerInvocation="39" maxMicrosecondsPerInvocation="8753" standardDeviationMicrosecondsPerInvocation="286"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis" totalMilliseconds="39" invocations="63" avgMicrosecondsPerInvocation="629" maxMicrosecondsPerInvocation="3833" standardDeviationMicrosecondsPerInvocation="730"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.DumbMethods" totalMilliseconds="37" invocations="25" avgMicrosecondsPerInvocation="1504" maxMicrosecondsPerInvocation="20619" standardDeviationMicrosecondsPerInvocation="3957"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.ReflectiveClasses" totalMilliseconds="37" invocations="102" avgMicrosecondsPerInvocation="367" maxMicrosecondsPerInvocation="6342" standardDeviationMicrosecondsPerInvocation="897"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ConstantPoolGenFactory" totalMilliseconds="35" invocations="25" avgMicrosecondsPerInvocation="1436" maxMicrosecondsPerInvocation="33054" standardDeviationMicrosecondsPerInvocation="6454"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History></History>
+</BugCollection>
